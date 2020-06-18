@@ -8,12 +8,11 @@
 # Features (done)
 - 16 channels
 - 128 steps
-- unlimited patterns
 - 32 step buttons on 4 pages
-- up to 32 CC values per step
-- 8 potentiometer
+-  8 CC values on each step
+-  8 encoder 
 
-
+- Teensy 3.6 powered
 - Midi In and Out
 - USB Midi Host for external midi devices
 - OLED Display 128 x 64  
@@ -21,8 +20,10 @@
 - Micro SD Slot
 - USB Powered
 
-# Features (planned)
+# Features (IM WORKING ON)
 - cv out
+- Sve and load from sd card
+- mu
 
 
 ​
