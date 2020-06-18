@@ -27,7 +27,7 @@
 
 ​
 # key mapping
-![](../raw/master/assets/img/keys.jpg)
+![](../img/keys.jpg)
 
 
 > There are a lot of combination. In general, every combination takes the function of both and creates a new meaning. So it should be easy to find and remember them.
