@@ -22,8 +22,8 @@
 
 # Features (IM WORKING ON)
 - cv out
-- Sve and load from sd card
-- mu
+- Save and load from sd card
+- multiple patterns
 
 
 ​
