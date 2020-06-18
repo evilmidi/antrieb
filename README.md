@@ -3,7 +3,7 @@
 
 
 
-![](../raw/master/assets/img/front.jpg)
+![](img/front.jpg)
 
 # Features (done)
 - 16 channels
