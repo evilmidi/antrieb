@@ -1,5 +1,5 @@
 # antrieb 
-> midi sequencer made for live</center>
+> sequencer made for live</center>
 
 
 
